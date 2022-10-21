@@ -1,3 +1,2 @@
 # Computer-Vision
-Compilation of notes of Computer Vision
-Semeseter 3
+Compilation of notes of Computer Vision and Image Processing
