@@ -1,2 +1,2 @@
 # Computer-Vision
-Compilation of notes of Computer Vision and Image Processing
+Compilation of notes of Computer Vision
